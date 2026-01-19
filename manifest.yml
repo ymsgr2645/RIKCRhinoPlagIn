@@ -1,0 +1,11 @@
+name: layertabs
+version: 1.0.0
+authors:
+  - RIKUSATO
+description: Tabbed layer navigation for Rhino
+url: https://github.com/ymsgr2645/LayerTabs
+keywords:
+  - layers
+  - navigation
+  - tabs
+  - panel
